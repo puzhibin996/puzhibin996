@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Stats 🌱
+
+<table cellspacing="0" cellpadding="0" style="border: none">
+  <tr>
+    <td>
+      
+![my github stats](https://github-readme-stats.vercel.app/api?username=JsonChao&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
+    </td>
+    <td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsonChao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+    </td>
+    </tr> 
